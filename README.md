@@ -5,4 +5,4 @@ New Atlantis Alchemical Technology
 -quantum random number generation makes readings 
 -in VR
 
-MIT License
+License Unknown
